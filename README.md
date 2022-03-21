@@ -12,3 +12,17 @@ III. MAIS, si le joueur obtient un 1 au cours d’une série de lancer, tout son
 IV. Le joueur peut choisir de conserver son score EN COURS avec le bouton « COMMUTEZ », ce qui a pour effet de l’ajouté à son score GLOBAL, mais dans ce cas, il doit passer la main à son concurrent.
 
 V. Le premier joueur à atteindre 100 points sur le score GLOBAL gagne la partie.
+
+---------------------------------------------------------------------------------------------------------------
+Arborescence du projet
+
+1. La racine du projet qui contient un répertoire « resources » et un fichier « index.html »
+
+2. Le fichier « index.html » permettant d’afficher le jeu dans le navigateur.
+
+3. Le fichier « style.css » de style permettant de mettre en forme la page index.html
+
+4. Le fichier « app.js » de javascript, permettant de rendre notre jeu dynamique.
+
+5. Les images pris en compte dans la réalisation du jeu.
+
