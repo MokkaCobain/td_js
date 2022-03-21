@@ -25,4 +25,3 @@ Arborescence du projet
 4. Le fichier « app.js » de javascript, permettant de rendre notre jeu dynamique.
 
 5. Les images pris en compte dans la réalisation du jeu.
-
